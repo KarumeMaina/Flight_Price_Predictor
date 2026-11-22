@@ -1,6 +1,6 @@
 # ✈️ Flight Price Prediction using Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/drive/1Me06E6Ngz_7qc82EOOvUbRHzivnH9VGZ#scrollTo=D32BPimpK99H)
+[![Open In Colab]([https://colab.research.google.com/drive/1Me06E6Ngz_7qc82EOOvUbRHzivnH9VGZ#scrollTo=D32BPimpK99H](https://colab.research.google.com/github/KarumeMaina/Flight_Price_Predictor/blob/main/Flight_Price_Predictor.ipynb))
 
 ## 📌 Problem Statement
 Airline ticket prices fluctuate constantly based on demand, booking timing, and carrier class. The objective of this project is to analyze a dataset of 12 flight variables and build a **Linear Regression** model to accurately predict flight ticket prices (`price`)[cite: 1, 2].
